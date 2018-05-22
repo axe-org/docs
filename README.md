@@ -29,4 +29,5 @@ Axe is all the reinforcement this army needs.
 | [dynamic-router-server](https://github.com/axe-org/dynamic-router-server)          | 动态路由服务 |
 | [axe-admin-server](https://github.com/axe-org/axe-admin-server)          | 组件化管理平台的后端 |
 | [axe-admin-web](https://github.com/axe-org/axe-admin-web)          | 组件化管理平台的前端 |
-| [fastlane](https://github.com/axe-org/fastlane)          | 组件化管理的 辅助工具 |
+| [axe-admin-docker](https://github.com/axe-org/axe-admin-docker)          | 使用docker镜像进行发布 |
+| [fastlane](https://github.com/axe-org/fastlane)          | 组件化管理的辅助脚本 |
