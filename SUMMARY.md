@@ -21,3 +21,4 @@
 	* [持续集成](platform/ci.md)
 	* [自动化测试](platform/autotest.md)
 	* [管理平台使用介绍](platform/axe-admin.md)
+* [版本说明](version.md)
